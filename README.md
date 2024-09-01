@@ -1,4 +1,4 @@
-# WeatherApp
+## WeatherApp
 
 ## Overview
 
@@ -10,9 +10,7 @@ The **WeatherApp** is a comprehensive weather forecast application designed to p
 - User-friendly interface
 - Location-based weather information
 
-## Architecture
-
-### WeatherForecastApp
+## WeatherForecastApp
 
 The **WeatherForcastApp** module utilizes **Jetpack Compose** for building modern user interfaces in a declarative manner. Additionally, it implements the **Clean Architecture** pattern, which promotes a well-structured codebase, making it easier to manage and test.
 
