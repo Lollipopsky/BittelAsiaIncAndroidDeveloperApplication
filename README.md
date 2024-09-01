@@ -2,7 +2,7 @@
 
 The **WeatherApp** is a comprehensive weather forecast application designed to provide users with up-to-date weather information. This application employs both the **Model-View-Intent (MVI)** and **Model-View-ViewModel (MVVM)** architectural patterns to ensure a clean separation of concerns and maintainability.
 
-## WeatherForecastApp
+## WeatherForcastApp
 
 The **WeatherForcastApp** module utilizes **Jetpack Compose** for building modern user interfaces in a declarative manner. Additionally, it implements the **Clean Architecture** pattern, which promotes a well-structured codebase, making it easier to manage and test.
 
